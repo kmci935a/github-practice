@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-WINTER_2016 = ['K. Student', 'J. Student']
+WINTER_2016 = ['K. Student', 'J. Student', 'M. Student']
 
 def wish_congrats(class_list) :
 	for students in class_list: 
