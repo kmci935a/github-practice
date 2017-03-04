@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 WINTER_2017 = ['K. Student', 'J. Student', 'L. Student', 'M. Student']
-# ADD A NEW LINE HERE TO ADD YOURSELF TO THE LIST using +=
+WINTER_2017 += ['J. Farver']
 
 def wish_congrats(class_list) :
 	for students in class_list: 
