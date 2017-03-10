@@ -9,4 +9,5 @@ def wish_congrats(class_list) :
 	for students in class_list: 
 		print 'Congrats %s!  You completed Programming for Data Analytics!' % students
 
+print 'YOU GUYS ARE AWESOME!!!'
 wish_congrats(WINTER_2017)
