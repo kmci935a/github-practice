@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-WINTER_2017 = ['K. Student', 'J. Student', 'L. Student', 'M. Student', 'Z. Student']
+WINTER_2018 = ['K. Student', 'J. Student', 'L. Student', 'M. Student', 'Z. Student']
 # ADD A NEW LINE HERE TO ADD YOURSELF TO THE LIST using +=
 
 print 'YAY!'
